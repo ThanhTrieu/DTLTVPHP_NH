@@ -1,0 +1,2 @@
+﻿1 - Giải nén tập tin: shophoa_XXX.rar
+2 - Đổi tên shophoa_XXX -> shophoa_sobaodanh_hoten
